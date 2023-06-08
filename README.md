@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hey there, I'm Robert Gorz 👋
 
-<!--
-**rjgorz/rjgorz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### A little bit about me:
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on personal projects.
+- 🌱 I’m currently learning Node.js and Express.js.
+- 💥 I’m open to freelance projects and collaborating with others.
+- 💼 I worked as an Engineer and Project Manager in the construction industry for 6 years.
+- ✈️ I love to travel and explore new places with my family, play video games and binge watch TV shows!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--- ADD LANGUAGES/FRAMEWORKS HERE --->
+
+---
+
+⚡️Connect with me!⚡️
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rjgorz/)
+[![Gmail](https://img.shields.io/badge/Gmail-729C68?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hey@tricia-hughes.com?subject=Hey%20Robert!)
+
+---
