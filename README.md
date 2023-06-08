@@ -1,7 +1,7 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=rjgorz&label=Profile%20views&color=0e75b6&style=flat" alt="rjgorz" /> </p>
 
-<h1 align="center">Hey 👋, I'm Robert Gorz</h1>
-<h3 align="center">A passionate and reliable Software Engineer with a unique background in engineering and project management.</h3>
+<h1 align="left">Hey 👋, I'm Robert Gorz</h1>
+<h3 align="justify">A passionate and reliable Software Engineer with a unique background in engineering and project management. My tehnical knowledge paired with management skills allows me to build and deliver quality solutions with a focus on schedule and budget.</h3>
 
 ---
 #### About me:
@@ -44,34 +44,3 @@
 
 ---
 
-
-
-
-
-
-
-
-<!---
-
-# Hey there, I'm Robert Gorz 👋
-
-### A little bit about me:
-
-- 🔭 I’m currently working on personal projects.
-- 🌱 I’m currently learning Node.js and Express.js.
-- 💥 I’m open to freelance projects and collaborating with others.
-- 💼 I worked as an Engineer and Project Manager in the construction industry for 6 years.
-- ✈️ I love to travel and explore new places with my family, play video games and binge watch TV shows!
-
-ADD LANGUAGES/FRAMEWORKS HERE
-
----
-
-⚡️Connect with me!⚡️
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rjgorz/)
-[![Gmail](https://img.shields.io/badge/Gmail-729C68?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hey@tricia-hughes.com?subject=Hey%20Robert!)
-
----
-
---->
