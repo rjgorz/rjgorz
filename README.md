@@ -18,7 +18,7 @@
 ### ⚡️Connect with me!⚡️
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rjgorz/)
-[![Gmail](https://img.shields.io/badge/Gmail-729C68?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hey@tricia-hughes.com?subject=Hey%20Robert!)
+[![Gmail](https://img.shields.io/badge/Gmail-729C68?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rjgorz@gmail.com?subject=Hey%20Robert!)
 
 ---
 
